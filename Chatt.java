@@ -1,4 +1,4 @@
-  
+ 
 import javax.swing.*;
 import java.util.*;
 import com.google.gson.Gson;
@@ -7,7 +7,7 @@ import com.google.gson.reflect.TypeToken;
 import java.io.*;
 import java.lang.reflect.Type;
 
-public class chitchat {
+public class Chatt {
 
     static List<Message> sentMessages = new ArrayList<>();
     static List<Message> sendLaterMessages = new ArrayList<>();
